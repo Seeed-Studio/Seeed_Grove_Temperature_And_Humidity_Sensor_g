@@ -3,7 +3,6 @@
 
 #include "SeeedDHT.h"
 
-
 DHT dht;
 
 const int pinTh = 2;

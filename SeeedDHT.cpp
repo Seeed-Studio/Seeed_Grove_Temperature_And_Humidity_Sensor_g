@@ -7,6 +7,7 @@ written by Adafruit Industries
 #include "SeeedDHT.h"
 #define NAN 0
 
+
 DHT::DHT(uint8_t pin, uint8_t type, uint8_t count) {
   _pin = pin;
   _type = type;
