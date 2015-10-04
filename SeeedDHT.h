@@ -1,5 +1,6 @@
-#ifndef DHT_H
-#define DHT_H
+#ifndef __SEEED_DHT__
+#define __SEEED_DHT__
+
 #if ARDUINO >= 100
  #include "Arduino.h"
 #else

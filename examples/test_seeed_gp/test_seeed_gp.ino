@@ -1,7 +1,7 @@
 // test for seeed graphical programming project
 // loovee @ 2015-8-4
 
-#include "DHT.h"
+#include "SeeedDHT.h"
 
 
 DHT dht;
